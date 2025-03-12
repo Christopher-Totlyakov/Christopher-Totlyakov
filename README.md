@@ -110,9 +110,11 @@ I have successfully completed multiple courses at **${\color{red}Software \space
 <br>
 
 ## ⭐ University grades 
-<div style="white-space: nowrap; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/a409247b-991f-440c-8949-626917d12b91" width="500" style="display:inline-block; margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/a4377e66-bda6-4879-b6f7-3430feafef1b" width="500" style="display:inline-block;" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a409247b-991f-440c-8949-626917d12b91" width="400" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/a4377e66-bda6-4879-b6f7-3430feafef1b" width="400" style="display:inline-block;" />
+</p>
+
+
 
 
