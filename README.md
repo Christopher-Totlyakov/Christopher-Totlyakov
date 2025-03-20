@@ -23,7 +23,7 @@ I have successfully completed multiple courses at **${\color{red}Software \space
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Totlyakov&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Christopher-Totlyakov&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=Christopher-Totlyakov&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)-->
 ![](https://nirzak-streak-stats.vercel.app/?user=Christopher-Totlyakov&theme=shadow_red&hide_border=true)
 
 
