@@ -67,41 +67,43 @@ I have successfully completed multiple courses at **${\color{red}Software \space
       <p><b>GPA:</b> 6.00/6.00</p>
       <p><b>Programming & Development:</b></p>
      <ul>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>Programming Basics - July 2022</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/139944/04c86463"><b>Programming Basics - July 2022</b></a><br>
     Topics: First Steps in Coding, Conditional Statements, For-Loop, While-Loop, Nested Loops
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>C# Fundamentals - January 2023</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/166881/4017e959"><b>C# Fundamentals - January 2023</b></a><br>
     Topics: Basic Syntax, Conditional Statements, Git & GitHub, Arrays, HTML & CSS Basics, Software Development Concepts
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>C# Advanced - May 2023</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/173654/fca409ce"><b>C# Advanced - May 2023</b></a><br>
     Topics: Stacks and Queues, Multidimensional Arrays, Functional Programming, Implementing Linked List, Generics, Iterators and Comparators
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>C# OOP - June 2023</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/181148/fa901e47"><b>C# OOP - June 2023</b></a><br>
     Topics: Inheritance, Encapsulation, Polymorphism, Exception Handling, SOLID, Unit Testing, Design Patterns
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>MS SQL - September 2023</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/185814/71f6de28"><b>MS SQL - September 2023</b></a><br>
     Topics: CRUD, Table Relations, Subqueries, Indices, Triggers and Transactions
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>Entity Framework Core - October 2023</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/197370/5e180d0b"><b>Entity Framework Core - October 2023</b></a><br>
     Topics: ADO.NET, Entity Framework, LINQ, JSON/XML Processing, NoSQL
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>HTML & CSS - January 2024</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/205196/482e6481"><b>HTML & CSS - January 2024</b></a><br>
     Topics: Introduction to HTML & CSS, Typography, Box Model & Position, Flexbox, Responsive Design
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>JS Front-End - February 2024</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/212322/84d3162d"><b>JS Front-End - February 2024</b></a><br>
     Topics: JS Syntax, Arrays & Strings, Functions, DOM Manipulation, Asynchronous Programming
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>ASP.NET Fundamentals - September 2024</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/228266/c081d9d9"><b>ASP.NET Fundamentals - September 2024</b></a><br>
     Topics: HTTP Protocol, ASP.NET Core Introduction, State Management, ASP.NET Core Identity
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>ASP.NET Advanced - October 2024</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/232722/4d665646"><b>ASP.NET Advanced - October 2024</b></a><br>
     Topics: Routing & Binding, Web API, Security, Testing with nUnit, SignalR, Azure Deployment
   </li>
-  <li><a href="https://softuni.bg/certificates/details/Програмиране-Базисно"><b>Software Engineering and DevOps - January 2025</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/238839/25da8b30"><b>Software Engineering and DevOps - January 2025</b></a><br>
     Topics: Software Engineering Fundamentals, DevOps, Git, Automated Testing, CI/CD with GitHub Actions & Jenkins
   </li>
-  <li><a href="#"><b>Containers and Cloud – Now</b></a><br>
+  <li><a href="https://softuni.bg/certificates/details/242415/65cade6f"><b>Containers and Cloud – February 2025</b></a><br>
     Topics: Working with LinuxShell, Docker containers, Docker Compose, Deploying a ready-made project in a cloud infrastructure, monitoring tools
+  </li>
+  <li><a href="https://softuni.bg/certificates/details/243755/4ec3ad85"><b>DIPLOMA - Back-End Software Engineer with C#</b></a>
   </li>
 </ul>
     </td>
